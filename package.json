@@ -1,11 +1,19 @@
 {
   "name": "reddit_search_app",
   "version": "1.0.0",
-  "description": "reddit search app",
+  "description": "search app using reddit api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androsv/Reddit-Search-App.git"
+  },
   "author": "satish vadera",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/androsv/Reddit-Search-App/issues"
+  },
+  "homepage": "https://github.com/androsv/Reddit-Search-App#readme"
 }
